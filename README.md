@@ -48,3 +48,42 @@ Aquí encontrarás todos los materiales necesarios para la cátedra y el laborat
 
 ### **Laboratorio**
 * 👨‍💻 [Guías y Material de Laboratorio](Laboratorio/Apuntes)
+
+---
+
+## 🚀 Cómo Clonar este Repositorio
+
+Para tener una copia local de todos los materiales del curso en tu computador, sigue estos sencillos pasos.
+
+### Requisitos
+
+* Tener [Git](https://git-scm.com/downloads) instalado. Puedes verificar si lo tienes abriendo una terminal y escribiendo `git --version`.
+
+### Pasos para la Clonación
+
+1.  **Abre una terminal** (Terminal cmd, PowerShell, o Git Bash).
+
+2.  **Elige una ubicación** en tu computador donde quieras guardar los archivos del curso. Por ejemplo, el Escritorio o tu carpeta de Documentos.
+    ```bash
+    # Ejemplo: para ir a la carpeta de Documentos
+    cd Documentos
+    ```
+
+3.  **Clona el repositorio** usando el siguiente comando (se recomienda HTTPS por ser más sencillo):
+
+    * **Opción 1 (HTTPS):**
+        ```bash
+        git clone [https://github.com/iyanezUSACH/DyDAT_2s_2025.git](https://github.com/iyanezUSACH/DyDAT_2s_2025.git)
+        ```
+
+    * **Opción 2 (SSH, para usuarios avanzados):**
+        ```bash
+        git clone git@github.com:iyanezUSACH/DyDAT_2s_2025.git
+        ```
+
+4.  **Ingresa a la carpeta** que acabas de crear:
+    ```bash
+    cd DyDAT_2s_2025
+    ```
+
+✅ ¡Listo! Ahora tienes todos los archivos del curso en tu computador. Para actualizarlos más adelante, solo necesitarás navegar a esta carpeta y ejecutar el comando `git pull`.
