@@ -44,7 +44,7 @@ Al finalizar la asignatura, serás capaz de aplicar fundamentos teóricos y prá
 Aquí encontrarás todos los materiales necesarios para la cátedra y el laboratorio.
 
 ### **Cátedra**
-* 📄 [Recursos y Apuntes de Cátedra](Catedra)
+* 📄 [Recursos y Apuntes de Cátedra](Cátedra/Recursos)
 
 ### **Laboratorio**
-* 👨‍💻 [Guías y Material de Laboratorio](Laboratorio)
+* 👨‍💻 [Guías y Material de Laboratorio](Laboratorio/Apuntes)
