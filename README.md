@@ -10,8 +10,7 @@
 <div style="text-align: justify;">
 Bienvenidas y bienvenidos al curso de Diseño y Desarrollo de Aplicaciones Territoriales, esta asignatura busca entregar al Ingeniero Civil en Geografía las herramientas y metodologías de gestión de proyectos geoinformáticos necesarios, para la construcción de aplicaciones basadas en Sistemas de Información Geográfica (SIG), con el objetivo de generar productos de información que apoyen la toma de decisiones sobre el territorio.
 
-
-
+<p>![Texto alternativo para la imagen](Resources/Gemini_Generated_Image.jpg)</p>
 
 
 ## Capacidades que adquirirán en el curso
