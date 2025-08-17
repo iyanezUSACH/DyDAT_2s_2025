@@ -110,6 +110,7 @@ Para tener una copia local de todos los materiales del curso en tu computador, s
 <img src="https://media.licdn.com/dms/image/v2/D4E03AQHiWvvaTsfTWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715806964843?e=1758153600&v=beta&t=CdRTNL576zh0Dt_H7dLl8shHliJLB-LdRRapYfVAkpI" width="25%" style="border-radius: 50%;">
 </div>
 
+<div style="text-align: justify;">
 ¡Bienvenidas y bienvenidos! Soy **Ignacio Yáñez Henríquez**, y seré su profesor en este viaje por el Diseño y Desarrollo de Aplicaciones Territoriales. Al igual que ustedes, soy **Ingeniero Civil en Geografía, titulado de esta misma casa de estudios, la Universidad de Santiago de Chile** 🎓.
 
 Mi carrera profesional de **más de 15 años** 💼 se ha centrado en conectar el análisis espacial con soluciones tecnológicas de alto impacto. He tenido la oportunidad de liderar y gestionar proyectos SIG en entornos tan desafiantes como la gran minería, trabajando para **Codelco en la División El Teniente** ⛏️, y más recientemente, como **Mining Industry Manager en Esri Chile S.A.**, la empresa líder a nivel mundial en tecnología geoespacial 🗺️.
@@ -119,6 +120,7 @@ Esta trayectoria me ha permitido no solo administrar y operar arquitecturas de d
 Para mantenerme a la vanguardia, complementé mi formación con un **Máster en Big Data y Data Science** 📊, lo que me ha permitido incorporar en mi trabajo un sólido dominio de **Python (con librerías de Machine Learning y ArcPy)** 🐍, bases de datos **SQL y NoSQL**, y herramientas de visualización como **Power BI y Tableau**.
 
 Mi objetivo en este curso 🎯, que he tenido el honor de impartir en diferentes formatos en la USACH desde 2013, es claro: entregarles las herramientas y metodologías que la industria demanda hoy. No solo aprenderán la teoría, sino que construiremos aplicaciones prácticas 🛠️, preparándolos para enfrentar los desafíos de la transformación digital en la gestión de nuestro territorio.
+</div>
 
 **🔗 Contacto y Redes Profesionales:**
 * **LinkedIn:** [Ignacio Yáñez Henríquez](https://www.linkedin.com/in/ignacio-ya%C3%B1ez-henriquez/)
