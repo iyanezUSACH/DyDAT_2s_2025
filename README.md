@@ -15,4 +15,5 @@ Bienvenidas y bienvenidos al curso de Diseño y Desarrollo de Aplicaciones Terri
 ### Cátedra
 [Recursos Cátedra](Cátedra)
 ### Laboratorio
+[Recursos Laboratorio](Laboratorio)
 
