@@ -1,11 +1,10 @@
 # DyDAT 2s 2025
-![](https://www.digea.usach.cl/digea/site/artic/20230110/imag/foto_0000000620230110165150/LOGO_DIGEA_MAIN_01.png)
-<p></p>
-**Universidad de Santiago de Chile
-Facultad de Ingeniería
-Departamento de Ingeniería Geoespacial y Ambiental
-Asignatura "Diseño y Desarrollo de Aplicaciones Territoriales"
-2do Semestre 2025**
+![](https://www.digea.usach.cl/digea/site/artic/20230110/imag/foto_0000000620230110165150/LOGO_DIGEA_MAIN_01.png)\
+**Universidad de Santiago de Chile**\
+**Facultad de Ingeniería**\
+**Departamento de Ingeniería Geoespacial y Ambiental**\
+**Asignatura "Diseño y Desarrollo de Aplicaciones Territoriales"**\
+**2do Semestre 2025**\
 
 ## Bienvenida
 
